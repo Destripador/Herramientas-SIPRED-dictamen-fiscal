@@ -6,7 +6,7 @@ Con este complemento para excel puedes exportar archivos:
 visita para mas informacion: 
 https://gossler-torreon.com/blog/tecnologia-1/sipred-a-excel-2
 
-![alt text](https://gossler-torreon.com/web/image/3221-794b0549/Animation.gif?access_token=51a0b53e-6dcd-4667-8203-c70f6f0d5842)
+![alt text](https://github.com/Destripador/Herramientas-SIPRED-dictamen-fiscal/blob/master/Imagenes/Animation.gif?raw=true)
 
 
 Puedes descargar la primer version desde aqui:
